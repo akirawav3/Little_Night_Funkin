@@ -1,0 +1,7 @@
+Beginnings:gf:1
+Rainy-Pipes:gf:1
+Soothing-Summits:gf:1
+Chiwld-Season:hunter:2
+Timber-Terror:hunter:2
+3-Gnomes-in-a-Trenchcoat:gnomes:2
+Ceramic-Mischief:bully:3

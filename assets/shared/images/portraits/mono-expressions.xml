@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mono-expressions.png"><SubTexture name="mono-idle0000" x="0" y="0" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-angry0000" x="250" y="0" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-rage0000" x="500" y="0" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-annoy0000" x="750" y="0" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-blush0000" x="0" y="242" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-swirl0000" x="250" y="242" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-confused0000" x="500" y="242" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-fluster0000" x="750" y="242" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-dumbfounded0000" x="0" y="484" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+<SubTexture name="mono-worry0000" x="250" y="484" width="250" height="242" frameX="0" frameY="0" frameWidth="250" frameHeight="242" />
+</TextureAtlas>

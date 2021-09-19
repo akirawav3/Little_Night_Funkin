@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gnome-expressions.png"><SubTexture name="gnome-frown0000" x="0" y="0" width="246" height="301" frameX="0" frameY="0" frameWidth="246" frameHeight="301" />
+<SubTexture name="gnome-happy0000" x="246" y="0" width="246" height="301" frameX="0" frameY="0" frameWidth="246" frameHeight="301" />
+<SubTexture name="gnome-worry0000" x="492" y="0" width="246" height="301" frameX="0" frameY="0" frameWidth="246" frameHeight="301" />
+</TextureAtlas>

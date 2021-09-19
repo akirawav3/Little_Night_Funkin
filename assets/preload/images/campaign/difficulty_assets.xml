@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="difficulty_assets.png"><SubTexture name="EASY0000" x="0" y="0" width="529" height="105" frameX="0" frameY="-365" frameWidth="529" frameHeight="105" />
+<SubTexture name="HARD0000" x="529" y="0" width="529" height="105" frameX="0" frameY="-365" frameWidth="529" frameHeight="105" />
+<SubTexture name="NORMAL0000" x="1058" y="0" width="529" height="105" frameX="0" frameY="-365" frameWidth="529" frameHeight="105" />
+</TextureAtlas>

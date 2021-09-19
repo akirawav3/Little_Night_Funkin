@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hunter-expressions.png"><SubTexture name="hunter-angry0000" x="0" y="0" width="270" height="319" frameX="0" frameY="0" frameWidth="270" frameHeight="319" />
+<SubTexture name="hunter-annoyed0000" x="270" y="0" width="270" height="319" frameX="0" frameY="0" frameWidth="270" frameHeight="319" />
+<SubTexture name="hunter-confused0000" x="540" y="0" width="270" height="319" frameX="0" frameY="0" frameWidth="270" frameHeight="319" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="six-expressions.png"><SubTexture name="six-idle0000" x="0" y="0" width="273" height="255" frameX="0" frameY="0" frameWidth="273" frameHeight="255" />
+<SubTexture name="six-angry0000" x="273" y="0" width="273" height="255" frameX="0" frameY="0" frameWidth="273" frameHeight="255" />
+<SubTexture name="six-blush0000" x="546" y="0" width="273" height="255" frameX="0" frameY="0" frameWidth="273" frameHeight="255" />
+<SubTexture name="six-cry0000" x="819" y="0" width="273" height="255" frameX="0" frameY="0" frameWidth="273" frameHeight="255" />
+<SubTexture name="six-frown0000" x="0" y="255" width="273" height="255" frameX="0" frameY="0" frameWidth="273" frameHeight="255" />
+<SubTexture name="six-smile0000" x="273" y="255" width="273" height="255" frameX="0" frameY="0" frameWidth="273" frameHeight="255" />
+</TextureAtlas>

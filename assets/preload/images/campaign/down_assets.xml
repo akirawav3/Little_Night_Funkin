@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="down_assets.png"><SubTexture name="IDLE0000" x="0" y="0" width="63" height="54" frameX="0" frameY="0" frameWidth="63" frameHeight="54" />
+<SubTexture name="PRESS0000" x="63" y="0" width="63" height="54" frameX="0" frameY="0" frameWidth="63" frameHeight="54" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hunter_assets.png"><SubTexture name="Hunter idle dance0000" x="0" y="0" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter idle dance0001" x="686" y="0" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter idle dance0002" x="1372" y="0" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter idle dance0003" x="2058" y="0" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter idle dance0004" x="0" y="637" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note RIGHT0000" x="686" y="637" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note RIGHT0001" x="1372" y="637" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note UP0000" x="2058" y="637" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note UP0001" x="0" y="1274" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note LEFT0000" x="686" y="1274" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note LEFT0001" x="1372" y="1274" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note DOWN0000" x="2058" y="1274" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+<SubTexture name="Hunter Sing Note DOWN0001" x="0" y="1911" width="686" height="637" frameX="0" frameY="0" frameWidth="986" frameHeight="1197" />
+</TextureAtlas>

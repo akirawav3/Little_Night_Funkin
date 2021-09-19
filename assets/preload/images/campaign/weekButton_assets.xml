@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="weekButton_assets.png"><SubTexture name="HOUSE0000" x="0" y="0" width="554" height="304" frameX="-12" frameY="-379" frameWidth="554" frameHeight="304" />
+<SubTexture name="FOREST0000" x="554" y="0" width="554" height="304" frameX="-12" frameY="-377" frameWidth="554" frameHeight="304" />
+<SubTexture name="SCHOOL0000" x="1108" y="0" width="554" height="304" frameX="-12" frameY="-379" frameWidth="554" frameHeight="304" />
+</TextureAtlas>

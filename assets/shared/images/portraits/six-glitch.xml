@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="six-glitch.png"><SubTexture name="six-glitch0000" x="0" y="0" width="415" height="257" frameX="0" frameY="0" frameWidth="415" frameHeight="257" />
+<SubTexture name="six-glitch0001" x="415" y="0" width="415" height="257" frameX="0" frameY="0" frameWidth="415" frameHeight="257" />
+<SubTexture name="six-glitch0002" x="830" y="0" width="273" height="258" frameX="0" frameY="0" frameWidth="273" frameHeight="258" />
+<SubTexture name="six-glitch0003" x="1103" y="0" width="273" height="276" frameX="0" frameY="0" frameWidth="273" frameHeight="276" />
+<SubTexture name="six-glitch0004" x="0" y="276" width="307" height="289" frameX="0" frameY="0" frameWidth="307" frameHeight="289" />
+</TextureAtlas>
